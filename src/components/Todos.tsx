@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { useTodos } from '../store/todos'
 import { useSearchParams } from 'react-router-dom'
 
